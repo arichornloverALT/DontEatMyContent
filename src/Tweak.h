@@ -1,17 +1,17 @@
 // #import <sys/utsname.h>
 #import <rootless.h>
 // #include <roothide.h>
-#import <YTHeaders/YTPlayerViewController.h>
-#import <YTHeaders/YTPlayerView.h>
-#import <YTHeaders/YTMainAppVideoPlayerOverlayViewController.h>
-// #import <YTHeaders/MLHAMSBDLSampleBufferRenderingView.h>
-#import <YTHeaders/YTMainAppEngagementPanelViewController.h>
-#import <YTHeaders/YTEngagementPanelContainerViewController.h>
-#import <YTHeaders/YTLabel.h>
-#import <YTHeaders/YTAlertView.h>
-#import <YTHeaders/YTHUDMessage.h>
-#import <YTHeaders/GOOHUDManagerInternal.h>
-#import <YTHeaders/YTUIUtils.h>
+#import <YouTubeHeader/YTPlayerViewController.h>
+#import <YouTubeHeader/YTPlayerView.h>
+#import <YouTubeHeader/YTMainAppVideoPlayerOverlayViewController.h>
+// #import <YouTubeHeader/MLHAMSBDLSampleBufferRenderingView.h>
+#import <YouTubeHeader/YTMainAppEngagementPanelViewController.h>
+#import <YouTubeHeader/YTEngagementPanelContainerViewController.h>
+#import <YouTubeHeader/YTLabel.h>
+#import <YouTubeHeader/YTAlertView.h>
+#import <YouTubeHeader/YTHUDMessage.h>
+#import <YouTubeHeader/GOOHUDManagerInternal.h>
+#import <YouTubeHeader/YTUIUtils.h>
 
 // Keys
 #define kTweak @"DEMC_enabled"
