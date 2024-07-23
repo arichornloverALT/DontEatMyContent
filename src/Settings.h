@@ -1,8 +1,8 @@
-#import <YTHeaders/YTSettingsCell.h>
-#import <YTHeaders/YTSettingsSectionItemManager.h>
-#import <YTHeaders/YTSettingsPickerViewController.h>
-#import <YTHeaders/YTSettingsSectionItem.h>
-#import <YTHeaders/YTSettingsViewController.h>
+#import <YouTubeHeader/YTSettingsCell.h>
+#import <YouTubeHeader/YTSettingsSectionItemManager.h>
+#import <YouTubeHeader/YTSettingsPickerViewController.h>
+#import <YouTubeHeader/YTSettingsSectionItem.h>
+#import <YouTubeHeader/YTSettingsViewController.h>
 
 #define DEMC @"DontEatMyContent"
 #define VERSION [NSString stringWithFormat:@"v%@", @(OS_STRINGIFY(TWEAK_VERSION))]
