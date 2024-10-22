@@ -1,0 +1,36 @@
+"ENABLED" = "Diaktifkan";
+"TWEAK_DESC" = "Mencegah notch / dynamic island memotong video 2:1 (misalnya, video MKBHD)";
+
+"SAFE_AREA_CONST" = "Konstanta area aman";
+"SAFE_AREA_CONST_DESC" = "Sesuaikan konstanta ini untuk mendekatkan video ke notch / dynamic island atau menjauhkannya. Semakin besar konstanta, semakin dekat video ke notch / dynamic island, dan sebaliknya.";
+"DEFAULT" = "default";
+"CHANGES_SAVED_DISMISS_VIDEO" = "Perubahan Anda telah disimpan. Jika video sedang diputar, tutup video tersebut agar perubahan dapat diterapkan.";
+
+"COLOR_VIEWS" = "Tampilan warna untuk debugging";
+"COLOR_VIEWS_DESC" = "Mengatur latar belakang merah untuk tampilan rendering, hijau untuk wadah tampilan rendering, dan biru untuk tampilan pemutar.";
+
+"REPORT_ISSUE" = "Laporkan masalah";
+"SOURCE_CODE" = "Lihat kode sumber";
+
+"CHANGES_SAVED" = "Perubahan Anda telah disimpan.";
+
+"EXIT" = "Keluar";
+"LATER" = "Nanti";
+"EXIT_YT_DESC" = "Luncurkan kembali YouTube untuk menerapkan perubahan.";
+
+"UNSUPPORTED_DEVICE" = "Perangkat ini tidak didukung.";
+
+"DISABLE_AMBIENT_MODE" = "Nonaktifkan mode pencahayaan sinematik dalam lanskap";
+"VERSION" = "Versi";
+
+"LIMIT_ZOOM_TO_FILL" = "Zoom hampir memenuhi (eksperimental)";
+"LIMIT_ZOOM_TO_FILL_DESC" = "Membatasi zoom agar memenuhi notch / dynamic island.";
+
+"ADD_TITLE" = "Tambahkan judul Anda di sini...";
+
+"ADVANCED" = "Lanjutan";
+
+"ENABLE_FOR_ALL_VIDEOS" = "Aktifkan untuk semua video (eksperimental)";
+"ENABLE_FOR_ALL_VIDEOS_DESC" = "Aktifkan batasan area aman untuk semua video. Ini mungkin menyebabkan efek yang tidak diinginkan. Silakan kirim laporan bug sebelum mengaktifkan opsi ini.";
+
+"ABOUT" = "Tentang";
